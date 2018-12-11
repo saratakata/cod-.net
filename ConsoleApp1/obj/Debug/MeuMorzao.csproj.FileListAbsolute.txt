@@ -1,0 +1,12 @@
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MeuMorzao.csprojAssemblyReference.cache
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MeuMorzao.csproj.CoreCompileInputs.cache
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MeuMorzao.csproj.CopyComplete
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\adema\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\adema\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\itextsharp.dll
+C:\Users\adema\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\itextsharp.xml
